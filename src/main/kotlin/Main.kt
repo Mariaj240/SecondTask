@@ -8,10 +8,6 @@ class LS() {
     companion object {
         fun execute(args: Array<String>) {
             Parser().parseArg(args)
-//    function1(
-//        "input/",
-//        true, false, false, ""
-//    )
         }
     }
 }
